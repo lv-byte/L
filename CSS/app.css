@@ -18,7 +18,7 @@ body {
     padding: 1em;
     width: 80%;
 }
-.destination-container {
+.destination-container{
     display: flex;
     flex-flow: wrap;
     justify-content: center;
